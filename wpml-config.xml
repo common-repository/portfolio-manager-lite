@@ -1,0 +1,18 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">otw_pm_portfolio</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">otw_pm_portfolio_category</taxonomy>
+    <taxonomy translate="1">otw_pm_portfolio_tag</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy">otw_pm_meta_data</custom-field>
+    <custom-field action="translate">otw_pm_portfolio_detail_1</custom-field>
+    <custom-field action="translate">otw_pm_portfolio_detail_2</custom-field>
+    <custom-field action="translate">otw_pm_portfolio_detail_3</custom-field>
+    <custom-field action="translate">otw_pm_portfolio_detail_4</custom-field>
+    <custom-field action="translate">otw_pm_portfolio_detail_5</custom-field>
+    <custom-field action="translate">otw_pm_portfolio_detail_6</custom-field>
+  </custom-fields>
+</wpml-config>

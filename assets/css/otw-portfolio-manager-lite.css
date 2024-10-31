@@ -1,0 +1,42 @@
+.otw_pro_feature{
+	clear: both;
+	background: none repeat scroll 0 0 #fff;
+	border-left: 4px solid #fff;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	padding: 1px 12px;
+	border-color: #ffba00;
+}
+.otw_pro_feature p{
+	padding: 2px;
+	margin: 0.5em 0;
+}
+.otw_pml_updated{
+	background-color: #FFFFFF;
+	border-left: 4px solid #7AD03A;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	padding: 1px 12px;
+	margin: 10px 2px 10px 1px;
+}
+.otw_control_feature{
+	background: none repeat scroll 0 0 #fff;
+	font-style: italic;
+	padding: 0 4px;
+	border-left: 4px solid #ffba00;
+	display: table-cell;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+}
+.b-meta-box .b-meta-items{
+	color: #b4b4b4;
+	cursor: not-allowed;
+}
+.accordion-section.add-page input:disabled, .accordion-section.add-page input[disabled]{
+	background-color: #f4f4f4 !important;
+}
+.accordion-section.add-page select:disabled, .accordion-section.add-page select[disabled]{
+	background-color: #f4f4f4 !important;
+	min-width: 100px;
+}
+.otw_disabled{
+	pointer-events: none;
+	cursor: not-allowed !important;
+}
